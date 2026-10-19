@@ -1,0 +1,6 @@
+{
+  "name": "Sadaf's LifeFlow AI",
+  "description": "An elegant personal productivity, learning, home management, and career assistant for Sadaf, a junior Data Analyst in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
